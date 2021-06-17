@@ -9,4 +9,4 @@ Auton, Adam, et al. “A Global Reference for Human Genetic Variation.” Nature
 
 Howie, Bryan, et al. “Fast and Accurate Genotype Imputation in Genome-Wide Association Studies through Pre-Phasing.” Nature Genetics, vol. 44, no. 8, July 2012, pp. 955–59. doi:10.1038/ng.2354.
 
-Quick, Corbin, et al. “EmeraLD: Rapid Linkage Disequilibrium Estimation with Massive Datasets.” Bioinformatics, vol. 35, no. 1, Jan. 2019, pp. 164–66. [doi:10.1093/bioinformatics/bty547][doi:10.1093/bioinformatics/bty547].
+Quick, Corbin, et al. “EmeraLD: Rapid Linkage Disequilibrium Estimation with Massive Datasets.” Bioinformatics, vol. 35, no. 1, Jan. 2019, pp. 164–66. [doi:10.1093/bioinformatics/bty547](doi:10.1093/bioinformatics/bty547).
